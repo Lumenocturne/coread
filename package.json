@@ -1,0 +1,16 @@
+{
+  "name": "coread",
+  "version": "0.1.0",
+  "description": "Read a book together with your AI companion — grounded in the real text, spoiler-safe, with shared margin notes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "epub2": "^3.0.2",
+    "express": "^4.19.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}

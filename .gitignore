@@ -1,0 +1,6 @@
+node_modules/
+coread.db
+coread.db-*
+tmp-uploads/
+persona.md
+.env
